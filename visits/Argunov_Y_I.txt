@@ -1,0 +1,9 @@
+void print_visit()
+{
+	std::cout<<"I am here"<<endl;
+}
+int main(void)
+{
+	print_visit();
+	return 0;
+}	
